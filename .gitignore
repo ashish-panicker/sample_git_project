@@ -1,1 +1,3 @@
+# List of all files and directories to be ignored by Git
+node_modules/
 example.txt
